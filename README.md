@@ -19,3 +19,8 @@ If you like what I'm doing and want to support the development, just spread the 
 <a href="https://github.com/madnuttah/">
   <img align="top" style="margin:1.0rem" src=https://github-readme-stats.vercel.app/api/top-langs/?username=madnuttah&layout=full&show_icons=true&title_color=9f9f9f&icon_color=79ff97&text_color=9f9f9f&bg_color=00ff0000&disable_animations=true&hide_border=true)
 />
+
+### Contact me
+  
+[![Contact me on Mastodon](https://img.shields.io/mastodon/follow/107779375129112763?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@madnuttah)
+[![Contact me on Twitter](https://img.shields.io/twitter/follow/madnuttah?style=social)](https://twitter.com/madnuttah) 
