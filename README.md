@@ -1,5 +1,3 @@
-<link href="https://fosstodon.org/@madnuttah" rel="me"></link>
-
 ### Hello there 👋
 
 **I am madnuttah.**
