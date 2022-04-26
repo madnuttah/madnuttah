@@ -21,5 +21,7 @@ If you like what I'm doing and want to support the development, just spread the 
 />
 
 ### Contact me
-  - <a rel="me" href="https://fosstodon.org/@madnuttah">Mastodon</a>
-  - <a href="https://twitter.com/madnuttah">Twitter</a>
+  
+[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/107779375129112763?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@madnuttah)
+<br>
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/madnuttah?style=social)](https://twitter.com/madnuttah) 
