@@ -2,7 +2,7 @@
 
 **I am madnuttah.**
 
-- ❓I am a Windows/Linux Sysadmin and some folks may remember this username for "niche" mods I've made for Fallout and Skyrim and some C# UWP Windows Store Apps which I've retired because of Microsoft's unclear strategy abandoning things from one day to another.
+- ❓I am a Windows/Linux Sysadmin and some folks may remember this username for "niche" mods I've made for Fallout and Skyrim and some C# UWP Windows Store Apps which I've retired because of Microsoft's unclear strategy abandoning nice things from one day to another.
 
 - 🧪 I’m maintaining my **unofficial** [@NLnetLabs](https://github.com/NLnetLabs) Unbound Docker Image here on GitHub in my spare time.
 
