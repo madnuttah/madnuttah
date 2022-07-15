@@ -1,5 +1,3 @@
-### Hello there 👋
-
 **I am madnuttah.**
 
 - 🌱 I am a Windows/Linux Sysadmin and some folks may remember this username for "niche" mods I've made for Fallout and Skyrim and some C# UWP Windows Store Apps which I've retired because of Microsoft's unclear strategy abandoning nice things from one day to another.
