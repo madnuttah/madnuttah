@@ -16,7 +16,7 @@ What am I doing?
 />
 
 <a href="https://github.com/madnuttah/">
-  <img align="top" style="margin:1.0rem" src=https://github-readme-stats.vercel.app/api/top-langs/?username=madnuttah&layout=full&show_icons=true&title_color=9f9f9f&icon_color=79ff97&text_color=9f9f9f&bg_color=00ff0000&disable_animations=true&hide_border=true)
+  <img align="top" style="margin:1.0rem" src=https://github-readme-stats.vercel.app/api/top-langs/?username=madnuttah&layout=full&show_icons=true&title_color=9f9f9f&icon_color=79ff97&text_color=9f9f9f&bg_color=00ff0000&disable_animations=true&hide_border=true&border_radius=0.0)
 />
 
 ### Contact me
