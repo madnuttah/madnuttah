@@ -1,10 +1,10 @@
 **I am madnuttah.**
 
-- 💙 I am a Windows/Linux Sysadmin and C# developer
+- 💚 I am a Windows/Linux Sysadmin and C# developer
 
 What am I doing?
 
-- 🧪 I’m maintaining my **unofficial** [@NLnetLabs](https://github.com/NLnetLabs) [`Unbound Docker Image`](https://github.com/madnuttah/unbound-docker) here on GitHub in my spare time doing my best to provide one of the most secure and trustworthy images for you
+- 🧪 I’m maintaining my **unofficial** [@NLnetLabs](https://github.com/NLnetLabs) [`Unbound Docker Image`](https://github.com/madnuttah/unbound-docker) here on GitHub in my spare time doing my best to provide one of the most advanced, feature rich, secure and trustworthy Unbound Docker images for you
 
 ### Contact me
   
