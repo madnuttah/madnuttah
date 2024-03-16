@@ -1,6 +1,6 @@
 **I am madnuttah**
 
-- 💚 I am a Windows/Linux Sysadmin and C# developer
+- 💚 I am a Windows/Linux Sysadmin and developer
 
 What am I doing
 
