@@ -5,7 +5,3 @@
 What am I doing
 
 - 🧪 I am maintaining my **unofficial** [NLnet Labs](https://github.com/NLnetLabs) [`Unbound Docker Image`](https://github.com/madnuttah/unbound-docker) here on GitHub in my spare time doing my best to provide one of the most advanced, secure and trustworthy Unbound Docker images for you
-
-### Contact me
-  
-[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/107779375129112763?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@madnuttah)
