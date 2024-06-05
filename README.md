@@ -1,1 +1,1 @@
-- 💚 I am a Windows/Linux sysadmin and developer
+- I am a Windows/Linux sysadmin and developer
